@@ -1,1 +1,1 @@
-# PracticalIntroductionToMCMC
+# Practical Introduction to MCMC book
